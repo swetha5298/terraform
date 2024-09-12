@@ -1,0 +1,3 @@
+variable "environment" {
+    deafult= "dev"
+} 
